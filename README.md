@@ -78,7 +78,7 @@ This collection was created to practice 3D part modeling, understand mechanical 
   ![Cap](https://github.com/user-attachments/assets/f755937b-e9c7-4660-ad65-7b877615b62f)
 
 
-- Luck Nut
+- Lock Nut
 
   ![Luck Nut](https://github.com/user-attachments/assets/11545335-00f6-4653-b1f5-d11d53398af2)
 
