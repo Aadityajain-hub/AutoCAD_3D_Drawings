@@ -106,7 +106,7 @@ This collection was created to practice 3D part modeling, understand mechanical 
 
 **Parts:**
 
-- Center
+- Center Block
 
   ![Center](https://github.com/user-attachments/assets/4d853b0b-6b3c-4d53-929e-f3b6b91b0ff6)
 
@@ -158,7 +158,7 @@ This collection was created to practice 3D part modeling, understand mechanical 
   ![CLAMP ARM](https://github.com/user-attachments/assets/3846755e-9b2b-4abb-94c4-5d8ea2c627ec)
 
 
-- Fixture Block or V-Type Block
+- Fixture Block 
 
   ![FIXTURE BLOCK](https://github.com/user-attachments/assets/f662cf2f-5f9e-424e-ad5c-1eb01cd0a978)
 
